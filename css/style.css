@@ -1,7 +1,19 @@
+
 h1{
-    color:bisque;
+    color: grey;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
     
 }
-.row{
-    
+body{
+    background-color:bisque;
+}
+.boldheading{
+    font-family: Akaya Telivigala;
+}
+div{
+    text-align: center;
+}
+.button:hover{
+    background-color:rgb(0, 0, 0);
 }
